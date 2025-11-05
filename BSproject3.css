@@ -1,0 +1,303 @@
+
+/* navsection */
+.h1{
+    float: left;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+.rounded-pill{
+    float: left;
+}
+/* end of navasection */
+
+
+/* herosection */
+.banner{
+    background-image: url(brisket.jpg);
+    background-position: center;
+    background-size: cover;
+    /* height: 600px; */
+}
+    
+.overlay{
+    background-color: rgba(0, 0, 0, 0.747);
+    padding: 100px 0 !important;
+}
+.hd{
+    font-size: 100px;
+    letter-spacing: 10px;
+}
+.para{
+    letter-spacing: 2px;
+}
+
+/* end of herosection */
+
+
+#boxes{
+   background-image: url(brisket.jpg);
+   background-size: cover;
+   /* height: 300px; */
+   background-position: center;
+}
+.overlay1{
+    background-color: rgba(0, 0, 0, 0.925);
+     padding: 100px 0;
+}
+
+.line{
+    background-color: aliceblue;
+    height: 2px;
+    width: 65%;
+    margin: auto;
+}
+ .box h3{ 
+    padding: 10px; 
+    font-size: 22px;
+   
+
+ }
+
+ .box1{
+    padding: 10px;
+    
+}
+.line1{
+    background-color: wheat;
+    height: 2px;
+    width: 90px;
+   margin-left: 210px;
+}
+
+.line2{
+    background-color: wheat;
+    height: 2px;
+    width: 300px;
+   ;
+    
+}
+
+
+.box2{
+    padding: 10px;
+    
+}
+.line3{
+    background-color: wheat;
+    height: 2px;
+    width: 90px;
+   margin-right: 210px;
+}
+
+.line4{
+    background-color: wheat;
+    height: 2px;
+    width: 300px;
+    
+}
+
+
+
+
+.banner2{
+     background-image: url(food.jpg);
+     background-size: cover;
+     background-position: center;
+
+}
+.hd1{
+    font-size: 70px;
+    color:gainsboro;
+    letter-spacing: 10px;
+  }
+  .overlay2{
+    background-color: rgba(0, 0, 0, 0.774);
+    padding: 100px 0;
+  }
+
+.banner3{
+     background-image: url(catering-chafer_51_989020_v1.jpeg); 
+     background-position: center;
+     background-size: cover; 
+     
+    /* height: 500px;} */}
+
+    .overlay3{
+        background-color: rgba(0, 0, 0, 0.651);
+        padding: 100px 0 !important; 
+    }
+
+    #boxes1{
+   background-image: url(cooking.jpg);
+   background-size: cover;
+   /* height: 300px; */
+   background-position: center;
+   
+}
+.overlay4{
+    background-color: rgba(255, 255, 255, 0.637);
+     padding: 100px 0; 
+}
+
+.banner4{
+     background-image: url(sauce.jpg); 
+
+     background-size: cover;
+     background-position: center;
+     
+     /* height: 500px; */
+    }    
+    .overlay5{
+    background-color: rgba(0, 0, 0, 0.685);
+    padding: 100px 0 !important; 
+    }
+    .banner5{
+     background-image: url(cafe.jpg); 
+    background-size: cover; 
+    background-position: center;
+   
+     /* height: 500px; */
+    }  
+    .overlay6{
+        background-color: rgba(0, 0, 0, 0.612);
+         padding: 100px 0 !important; 
+    }  
+
+
+
+
+#boxes2{
+   background-image: url(fam.jpg);
+   background-size: cover;
+   /* height: 300px; */
+  
+   background-position: center;
+}
+.overlay7{
+    background-color: rgba(231, 171, 119, 0.902);
+    padding: 100px 0;
+}
+
+
+   
+
+
+ .banner6{
+     background-image: url(making.jpg);  
+       
+     background-size: cover;  
+     background-position: center;
+     
+   
+    }  
+   .overlay8{
+    background-color:rgba(0, 0, 0, 0.658);
+     padding: 100px 0 !important;
+   }
+
+ .lines{
+    background-color: aliceblue;
+    height: 2px;
+    width: 56%;
+    margin: auto;
+}
+
+  .liness{
+    background-color: aliceblue;
+    height: 2px;
+    width: 56%;
+    margin: auto;
+}
+.para{
+    letter-spacing: 2px;
+   
+   
+}
+.title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+   
+ 
+   
+    
+    
+}
+
+@media(max-width:992px){
+    .box{
+        text-align: center;
+    }
+    .line1,.line2,.line3,.line4{
+        margin: auto;
+    }
+    .hd1{
+        font-size: 40px;
+    }
+   .hd{
+    text-align: center;
+   }
+    
+}
+
+@media(max-width:615px){
+    .hd1{
+        font-size: 30px;
+    }}
+ @media(max-width:515px){
+    .hd1{
+        font-size: 20px;
+    }}
+
+   @media(max-width:570px){
+    .hd{
+        font-size: 80px;
+    }}
+
+
+     @media(max-width:576px){
+    .rr{
+        text-align: center;
+    }
+ }
+
+  
+
+ .bi-facebook,.bi-twitter,.bi-instagram,.bi-youtube{
+    color: goldenrod;
+ }
+ 
+.inbox1{
+    background-image: url(4rivers.png);  
+    background-size: cover;  
+    background-position: center;
+    height: 200px; 
+    float: left;
+    }  
+    .overlay9{
+    background-color:rgba(0, 0, 0, 0.72);
+    padding: 100px !important;
+   }
+    
+   .p1{
+        font-size: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: italic;
+    }
+
+#boxes3{
+    background-color: black;
+
+
+    
+   
+}
+
+.logo-box{
+    text-align: center;
+    margin: auto;
+   
+}
+
+
+
+
